@@ -7,7 +7,7 @@ local placeId = game.PlaceId
 --Made by : https://v3rmillion.net/member.php?action=profile&uid=244024
 -- init
 
-local library = loadstring(game:HttpGet("https://gist.githubusercontent.com/PowerxHero4/7e3ed165c9b646188b81852c0884a4c0/raw/51629548586da9a667bd7d1c6252faab3efad4c1/Ui"))() --someone reuploaded it so I put it in place of the original back up so guy can get free credit.
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/XxzPoomzxX/Power-X-Hub-2/main/venyx"))() --someone reuploaded it so I put it in place of the original back up so guy can get free credit.
 local Power = library.new("Power x Hero 4.1", 5013109572)
 
 local ui = game:GetService("CoreGui"):FindFirstChild("objects")
